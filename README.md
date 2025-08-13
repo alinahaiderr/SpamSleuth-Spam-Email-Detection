@@ -1,4 +1,4 @@
-# 📧 SpamSleuth: Statistical and Tree-Based Email Classification
+# 📧 SpamSleuth: Statistical and Tree-Based Email Classification and Detection of Spam Emails
 
 This repository presents a comprehensive machine learning pipeline for detecting spam emails using the **Spambase dataset**. It combines **exploratory data analysis**, **statistical modeling**, and **tree-based classifiers** to uncover patterns and build robust predictive models.
 
